@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwwOf9M7sbI3Z7Ilfu2YIWXJ/vL4PCf41y/NGdmikhuo84f1GS+g+HYSVBmAfsF6N4VOdBa7uUOnuGQx0IxOEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chira\\source\\repos\\MST\\MST\\MST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chira\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.11.0\\microsoft.cognitiveservices.speech.1.11.0.nupkg.sha512",
+    "C:\\Users\\chira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\chira\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
